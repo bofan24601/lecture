@@ -19,3 +19,5 @@ radio apply in flashes
 ![alt text](IMG_0905.JPG)
 ![alt text](IMG_0906.JPG)
 ![alt text](IMG_0907.JPG)
+
+Quotation: You should know why it is failure, but not only be unhappy it is failure.
